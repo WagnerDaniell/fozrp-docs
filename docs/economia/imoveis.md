@@ -139,4 +139,4 @@ Total: R$ 1.250.000
 
 ---
 
-**Próximo:** [Economia Ilegal →](/docs/economia/ilegal)
+**Próximo:** [Economia Ilegal →](ilegal)

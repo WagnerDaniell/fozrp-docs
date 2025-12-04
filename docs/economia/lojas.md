@@ -137,4 +137,4 @@ Suprimentos: R$ 1.000
 Total: R$ 14.200
 ```
 
-**Próximo:** [Sistema de Veículos →](/docs/economia/veiculos)
+**Próximo:** [Sistema de Veículos →](veiculos)

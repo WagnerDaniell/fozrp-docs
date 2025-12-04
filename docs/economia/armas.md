@@ -107,4 +107,4 @@ Tabela completa de preços de armas e munições do FOZ RP.
 
 ---
 
-**Próximo:** [Sistema de Lojas →](/docs/economia/lojas)
+**Próximo:** [Sistema de Lojas →](lojas)

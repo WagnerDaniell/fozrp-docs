@@ -305,4 +305,4 @@ Investimento necessário: Empresa (R$ 50.000)
 
 ---
 
-**Próximo:** [Sistema de Multas →](/docs/economia/multas)
+**Próximo:** [Sistema de Multas →](multas)

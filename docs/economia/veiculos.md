@@ -179,4 +179,4 @@ Manutenção: R$ 20.000+/mês
 
 ---
 
-**Próximo:** [Sistema de Imóveis →](/docs/economia/imoveis)
+**Próximo:** [Sistema de Imóveis →](imoveis)

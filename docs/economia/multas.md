@@ -60,4 +60,4 @@ Sistema completo de penalidades financeiras e taxas administrativas do FOZ RP.
 | **Porte de Arma** | R$ 10.000 | 1 ano | R$ 2.000 |
 | **RG** | R$ 500 | 10 anos | R$ 250 |
 
-**Próximo:** [Sistema de Salários →](/docs/economia/salarios)
+**Próximo:** [Sistema de Salários →](salarios)
