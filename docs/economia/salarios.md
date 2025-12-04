@@ -156,4 +156,4 @@ Mês 6: Sênior (R$ 3.800/h)
 
 ---
 
-[Voltar ao Índice →](economia)
+[Voltar ao Índice →](index)
