@@ -35,44 +35,26 @@ Tabela completa de preços dos itens disponíveis nas lojas do FOZ RP.
 |------|-------|-----------|
 | **Isqueiro (BIC)** | R$ 50 | Acender cigarros |
 | **Pod** | R$ 80 | Vape descartável |
-| **Cigarro** | R$ 30 | Pacote com 20 unidades |
-| **Furadeira** | R$ 500 | Roubo de veículos/ATM |
-| **Tesoura** | R$ 200 | Corte de cercas |
-| **Mochila Pequena** | R$ 5.000 | +10 slots de inventário |
-| **Mochila Média** | R$ 10.000 | +20 slots de inventário |
-| **Mochila Grande** | R$ 20.000 | +30 slots de inventário |
-| **Band-aid** | R$ 50 | Cura 5% de vida |
+| **Cigarro** | R$ 30 | Fumar |
+| **Mochila Pequena** | R$ 5.000 |
+| **Mochila Média** | R$ 10.000 |
+| **Mochila Grande** | R$ 20.000 |
+| **Band-aid** | R$ 50 | Cura 25% de vida |
 
 ## 🍔 McDonalds
 
-| Item | Preço | Recuperação |
-|------|-------|-------------|
-| **Café** | R$ 15 | 5% vida + energia |
-| **Água** | R$ 10 | 10% vida |
-| **Coca-Cola** | R$ 25 | 15% vida |
-| **Água com Gás (Voss)** | R$ 30 | 20% vida |
-| **Hambúrguer** | R$ 35 | 30% vida |
-| **Donut** | R$ 15 | 10% vida |
-| **Doritos** | R$ 25 | 15% vida |
-| **Hot Dog** | R$ 20 | 25% vida |
-| **Pizza** | R$ 60 | 50% vida |
+| Item | Preço |
+|------|-------|
+| **Café** | R$ 15 |
+| **Água** | R$ 10 |
+| **Coca-Cola** | R$ 25 |
+| **Água com Gás (Voss)** | R$ 30 |
+| **Hambúrguer** | R$ 35 |
+| **Donut** | R$ 15 |
+| **Doritos** | R$ 25 |
+| **Hot Dog** | R$ 20 |
+| **Pizza** | R$ 60 |
 
-## 🏪 Locais das Lojas
-
-### Postos de Gasolina:
-- **LS:** 8 locais espalhados
-- **SF:** 4 locais principais
-- **LV:** 3 locais no deserto
-
-### Lojas 24h:
-- **Conveniência:** 12 lojas no total
-- **Farmácias:** 6 lojas (band-aid, curativos)
-- **Eletrônicos:** 3 lojas especializadas
-
-### Restaurantes:
-- **McDonalds:** 5 filiais
-- **Burguer Shot:** 4 filiais
-- **Pizza:** 3 restaurantes
 
 ## 💰 Dicas de Economia
 
@@ -88,23 +70,10 @@ Tabela completa de preços dos itens disponíveis nas lojas do FOZ RP.
    - **Mais eficiente:** Pizza
 
 3. **Mochilas:**
-   - Pequena: R$ 5.000 → R$ 500 por slot
-   - Média: R$ 10.000 → R$ 500 por slot
-   - Grande: R$ 20.000 → R$ 667 por slot
+   - Pequena: R$ 5.000 
+   - Média: R$ 10.000
+   - Grande: R$ 15.000 
    - **Melhor custo:** Pequena/Média
-
-## 📦 Estoque e Reposição
-
-### Regras de Estoque:
-- **Lojas NPC:** Estoque infinito
-- **Lojas Player-owned:** Estoque limitado
-- **Reposição:** Automática a cada 24h
-- **Descontos:** Eventos semanais (10-20% off)
-
-### Itens Restritos:
-- **Furadeira:** Venda controlada
-- **Tesoura:** Registro obrigatório
-- **Kits de Reparo:** Limite 3 por compra
 
 ## 🎯 Necessidades Básicas
 
@@ -130,8 +99,6 @@ Total: R$ 1.600
 ### Kit Aventura (R$ 10.000+):
 ```lua
 Mochila Média: R$ 10.000
-Furadeira: R$ 500
-Tesoura: R$ 200
 Kit Reparo: 5x = R$ 2.500
 Suprimentos: R$ 1.000
 Total: R$ 14.200
