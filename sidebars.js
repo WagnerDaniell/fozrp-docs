@@ -47,6 +47,7 @@ const sidebars = {
         'economia/lojas',
         'economia/salarios',
         'economia/guarani',
+        'economia/beneficios',
 
       ],
     },
