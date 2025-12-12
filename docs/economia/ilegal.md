@@ -98,8 +98,6 @@ Custo produção: R$ 20/unidade
 | **PS5** | **12.000 PY** | R$ 3.500 | **R$ 500** | 🔴 Alto |
 | **Tablet** | **6.800 PY** | R$ 2.000 | **R$ 300** | 🟡 Médio |
 | **Fone Importado** | **2.040 PY** | R$ 600 | **R$ 90** | 🟢 Baixo |
-| **Mochila Média** | **48.000 PY** | R$ 14.000 | **R$ 2.000** | 🟡 Médio |
-| **Mochila Grande** | **96.000 PY** | R$ 28.000 | **R$ 4.000** | 🔴 Alto |
 
 **Conversão:** 1 PY = 0,25 R$ (4 PY = 1 R$)
 

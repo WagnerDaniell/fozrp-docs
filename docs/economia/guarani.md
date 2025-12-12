@@ -40,8 +40,6 @@ Sistema Guarani - FOZ RP
 | Item | Preço LS (BR) | **Preço Feira PY** | Equivalente R$ | Economia |
 |------|---------------|-------------------|----------------|----------|
 | **Celular** | R$ 1.800 | **6.000 PY** | R$ 1.500 | **17%** |
-| **Mochila Média** | R$ 14.000 | **48.000 PY** | R$ 12.000 | **17%** |
-| **Mochila Grande** | R$ 28.000 | **96.000 PY** | R$ 24.000 | **17%** |
 | **Kit Reparo** | R$ 700 | **2.400 PY** | R$ 600 | **17%** |
 | **PS5** | R$ 3.500 | **12.000 PY** | R$ 3.000 | **17%** |
 | **Notebook** | R$ 4.500 | **15.200 PY** | R$ 3.800 | **17%** |
@@ -51,68 +49,14 @@ Sistema Guarani - FOZ RP
 
 ---
 
-## 💰 **Exemplos Práticos**
-
-### **Exemplo 1: Carro Popular (R$ 25.000)**
-1. Desmancha: **50.000 PY**
-2. **Opção A - Converter:** 50.000 × 0,25 = **R$ 12.500**
-3. **Opção B - Contrabando:**
-   - Compra: 8 Celulares (8 × 6.000 = 48.000 PY)
-   - Vende LS: 8 × R$ 1.800 = **R$ 14.400**
-   - **Lucro extra:** R$ 1.900 (+15%)
-
-### **Exemplo 2: Carro SUV (R$ 100.000)**
-1. Desmancha: **200.000 PY**
-2. **Converter:** R$ 50.000
-3. **Contrabando:**
-   - Compra: 4 Mochilas Médias (4 × 48.000 = 192.000 PY)
-   - Vende: 4 × R$ 14.000 = **R$ 56.000**
-   - **Lucro extra:** R$ 6.000 (+12%)
-
-### **Exemplo 3: Carro Luxo (R$ 400.000)**
-1. Desmancha: **800.000 PY**
-2. **Converter:** R$ 200.000
-3. **Contrabando:**
-   - Compra: 16 Mochilas Médias (16 × 48.000 = 768.000 PY)
-   - Vende: 16 × R$ 14.000 = **R$ 224.000**
-   - **Lucro extra:** R$ 24.000 (+12%)
-
----
-
 ## 📦 **Limites de Transporte**
 
 | Item | Peso | Limite por Veículo | Preço PY | Valor LS |
 |------|------|-------------------|----------|----------|
-| Celular | 1 | 40 unidades | 6.000 PY | R$ 1.800 |
-| Mochila Média | 6 | 8 unidades | 48.000 PY | R$ 14.000 |
-| Mochila Grande | 10 | 5 unidades | 96.000 PY | R$ 28.000 |
-| PS5 | 4 | 12 unidades | 12.000 PY | R$ 3.500 |
-| Notebook | 5 | 10 unidades | 15.200 PY | R$ 4.500 |
-| **Peso Máximo:** | **50** | por viagem | | |
-
----
-
-## 📊 **Carga Ideal por Classe**
-
-### **Para Popular (50.000 PY):**
-- **Melhor:** 8 Celulares (48.000 PY)
-- **Valor LS:** R$ 14.400
-- **VS Converter:** R$ 12.500
-- **Lucro:** +R$ 1.900 (+15%)
-
-### **Para Sedan (100.000 PY):**
-- **Melhor:** 2 Mochilas Médias (96.000 PY)
-- **Valor LS:** R$ 28.000
-- **VS Converter:** R$ 25.000
-- **Lucro:** +R$ 3.000 (+12%)
-
-### **Para SUV (200.000 PY):**
-- **Melhor:** 4 Mochilas Médias (192.000 PY)
-- **Valor LS:** R$ 56.000
-- **VS Converter:** R$ 50.000
-- **Lucro:** +R$ 6.000 (+12%)
-
----
+| Celular | 1 | 3 unidades | 6.000 PY | R$ 1.800 |
+| PS5 | 4 | 3 unidades | 12.000 PY | R$ 3.500 |
+| Notebook | 5 | 3 unidades | 15.200 PY | R$ 4.500 |
+| **Peso Máximo:** | **15** | por viagem | | |
 
 ## ⚠️ **Riscos do Sistema**
 
@@ -122,8 +66,8 @@ Sistema Guarani - FOZ RP
 
 ### **Riscos por Tipo de Item**
 - **🟢 Baixo Risco:** VR, Fones (pequenos, valor baixo)
-- **🟡 Médio Risco:** Celulares, Tablets, Mochilas Médias
-- **🔴 Alto Risco:** PS5, Notebooks, Mochilas Grandes
+- **🟡 Médio Risco:** Celulares, Tablets
+- **🔴 Alto Risco:** PS5, Notebooks
 
 ---
 
@@ -149,12 +93,6 @@ Sistema Guarani - FOZ RP
 2. Converta PY → R$ direto
 3. Use PY só para compras pessoais
 4. **Lucro/hora:** ~R$ 20.000
-
-### **Intermediário (Balanceado)**
-1. Foque em SUVs e Sedans
-2. Faça contrabando com Mochilas Médias
-3. Misture produtos para otimizar carga
-4. **Lucro/hora:** ~R$ 40.000
 
 ### **Avançado (Alto Risco)**
 1. Especialize-se em carros luxo
