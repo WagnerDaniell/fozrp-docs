@@ -87,6 +87,3 @@ Tabela completa de preços, categorias e informações sobre veículos do FOZ RP
 ## ⚠️ Penalidades Veiculares
 **Apreensão de Veículo:** Fazer pagamento no detran da taxa de liberação do veiculo.
 
----
-
-**Próximo:** [Sistema de Imóveis →](imoveis)

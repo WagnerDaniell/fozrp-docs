@@ -82,7 +82,3 @@ Tabela completa de preços de armas e munições do FOZ RP.
 | Venda acima do preço | 1 dias ban |
 | Venda sem munição | 1 dia ban |
 | Venda em safe-zone | 1 dias ban |
-
----
-
-**Próximo:** [Sistema de Lojas →](lojas)

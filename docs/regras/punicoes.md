@@ -59,5 +59,3 @@ Não finalizado - Sistema completo de penalidades financeiras e taxas administra
 | **CNH Categoria D** | R$ 3.000 | 5 anos | R$ 1.500 |
 | **Porte de Arma** | R$ 10.000 | 1 ano | R$ 2.000 |
 | **RG** | R$ 500 | 10 anos | R$ 250 |
-
-**Próximo:** [Sistema de Salários →](salarios)

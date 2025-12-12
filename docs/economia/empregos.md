@@ -151,5 +151,3 @@ Observação: Missões longas.
 6. Las Barrancas (2454.916, 1934.865)
 
 **Requisitos:** Força física para carregar madeiras
-
-**Próximo:** [Sistema de Armas →](armas)

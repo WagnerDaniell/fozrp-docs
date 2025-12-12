@@ -95,5 +95,3 @@ Comida: R$ 200
 Gasolina: 100L = R$ 300
 Total: R$ 1.600
 ```
-
-**Próximo:** [Sistema de Veículos →](veiculos)

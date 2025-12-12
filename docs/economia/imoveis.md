@@ -136,7 +136,3 @@ Total: R$ 1.250.000
 - **8-14 dias:** Multa 25%
 - **15-30 dias:** Multa 50% + risco de apreensão
 - **+30 dias:** Imóvel apreendido e leiloado
-
----
-
-**Próximo:** [Economia Ilegal →](ilegal)

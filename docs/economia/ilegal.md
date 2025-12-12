@@ -124,4 +124,3 @@ Custo produção: R$ 20/unidade
 - **Investigação federal:**
 - **Prisão:**
 
-**Próximo:** [Sistema de Multas →](multas)
