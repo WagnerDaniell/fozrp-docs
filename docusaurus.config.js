@@ -1,5 +1,6 @@
 // @ts-check
-const { themes } = require('prism-react-renderer');
+const lightCodeTheme = require('prism-react-renderer/themes/github');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -14,8 +15,7 @@ const config = {
   organizationName: 'WagnerDaniell',
   projectName: 'fozrp-docs',
   
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  // REMOVIDO DAQUI
   favicon: 'img/logo.png',
 
   // ✅ IMPORTANTE para GitHub Pages:
@@ -31,7 +31,7 @@ const config = {
 
   markdown: {
     hooks: {
-      onBrokenMarkdownImages: 'warn',
+      onBrokenMarkdownLinks: 'warn', // MOVI PARA AQUI
     },
   },
 
@@ -136,10 +136,11 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} FOZ RP. Todos os direitos reservados.`,
       },
       prism: {
-        theme: themes.dracula,
-        darkTheme: themes.dracula,
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
         additionalLanguages: ['lua'],
       },
+
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: true,

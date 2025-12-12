@@ -26,6 +26,7 @@ const sidebars = {
         'regras/servidor',
         'regras/faccoes',
         'regras/corporacoes',
+        'regras/punicoes',
       ],
     },
     {
@@ -44,7 +45,6 @@ const sidebars = {
         'economia/ilegal',
         'economia/veiculos',
         'economia/lojas',
-        'economia/multas',
         'economia/salarios',
         'economia/fronteira',
 

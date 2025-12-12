@@ -97,10 +97,22 @@
 }
 
 /* --- 6. TABELAS --- */
+
+.markdown table,
+.theme-default .markdown table,
+.theme-classic .markdown table {
+  display: inline-table !important;
+  width: auto !important;
+  table-layout: auto !important;
+  max-width: none !important;
+}
+
+
 table {
   border-collapse: separate;
   border-spacing: 0;
-  width: 100%;
+  width: auto;              /* 🔧 NÃO força 100% da largura */
+  max-width: 100%;          /* 🔧 Evita estourar o layout */
   border: 1px solid #333;
   border-radius: var(--foz-radius);
   overflow: hidden;
@@ -125,6 +137,7 @@ table td {
 table tr:hover {
   background-color: rgba(255, 255, 255, 0.03);
 }
+
 
 /* --- 7. ELEMENTOS DE ROLEPLAY CUSTOMIZADOS --- */
 
