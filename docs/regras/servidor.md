@@ -45,73 +45,16 @@ sidebar_position: 2
 - Garagem central
 - Spawn inicial
 
-**Ação em Safe Zone**: Multa R$ 50.000 + prisão
-
-### Green Zones
-Áreas onde roleplay intenso é requerido:
-- Prefeitura
-- Banco
-- Lojas oficiais
-
 ### Red Zones
 Áreas de alto risco:
 - Favelas
 - Pontos de drogas
 - Áreas de facções
 
-## 📱 Comunicação
-
-### Chat de Voz (IC)
-- Use apenas In Character
-- Volume adequado
-- Sem música/ruído de fundo
-- Microfone de qualidade mínima
-
-### Chat de Texto
-- `/me` para ações
-- `/do` para descrições
-- `/ooc` apenas quando necessário (fora do jogo)
-
 ### Discord
 - Siga as regras do Discord
 - Canal correto para cada assunto
 - Sem briga em canais públicos
-
-## 🚗 Veículos
-
-### Uso Responsável
-- Não deixe veículo em local proibido
-- Respeite semáforos (quando em RP)
-- Não estacione em portas/bloqueios
-
-### Acidentes
-- RP de acidente é obrigatório
-- Chame mecânico se necessário
-- Não fuja do local (hit and run)
-
-## 💰 Economia
-
-### Anti-Farm
-- Não farme 24/7 sem RP
-- Interaja com outros jogadores
-- Variar atividades
-
-### Transações
-- Use sistema oficial do servidor
-- Não faça acordos fora do jogo
-- Registre vendas grandes
-
-## 🏠 Propriedades
-
-### Imóveis
-- Máximo 2 propriedades por jogador
-- Inatividade 30 dias = perda automática
-- Não bloqueie acesso público
-
-### Aluguel
-- Pague em dia
-- Respeite vizinhos
-- Mantenha propriedade limpa
 
 ## ⚖️ Sistema de Punições
 
@@ -153,19 +96,6 @@ sidebar_position: 2
 - Ban 3 dias na segunda
 - Ban permanente na terceira
 
-## 🔄 Inatividade
-
-### Ausência do Servidor
-- 15 dias sem login: Aviso
-- 30 dias sem login: Perda de propriedades
-- 60 dias sem login: Perda de facção/cargo
-- 90 dias sem login: Reset completo
-
-### Exceções
-- Informe ausência no Discord
-- Máximo 60 dias de licença
-- Apenas 1 licença por ano
-
 ## 📊 Whitelist
 
 ### Requisitos
@@ -201,26 +131,3 @@ sidebar_position: 2
 - Regras podem ser modificadas
 - Siga instruções da staff
 - Divirta-se!
-
-## 📞 Contato com Staff
-
-### Canais Oficiais
-- Discord: Ticket system
-- In-game: `/report`
-- Fórum: Seção de suporte
-
-### Horários de Atendimento
-- Staff online: 14h - 02h
-- Suporte Discord: 24/7
-- Reunião semanal: Domingos 20h
-
-## ✅ Checklist do Jogador
-
-- [ ] Li todas as regras
-- [ ] Configurei Discord
-- [ ] Testei microfone
-- [ ] Criei personagem adequado
-- [ ] Entendo punições
-- [ ] Sei como reportar
-
----

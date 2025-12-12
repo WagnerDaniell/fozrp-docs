@@ -85,40 +85,14 @@ sidebar_position: 1
 ["OOC"] Eae mano, onde pega arma aqui?
 ```
 
-### Situações de Conflito
-1. **Sempre roleplay**: Mesmo em PvP
-2. **Descreva ações**: "Estou apontando a arma..."
-3. **Respeite resultados**: Se perdeu, aceite
-
 ## ⚠️ Situações Especiais
 
 ### Morte e Reanimação
 - **Após morte**: Esquece últimos 15 minutos
 - **Reanimado**: Não lembra quem matou
-- **Hospital**: Roleplay de recuperação obrigatório
 
 ### Desmaios
 - **Tempo mínimo**: 5 minutos desmaiado
-- **Interação**: Outros podem ajudar
-- **Memória**: Perde eventos recentes
-
-## 📋 Checklist de Roleplay
-
-- [ ] Personagem com nome real
-- [ ] História definida
-- [ ] Sem informações OOC
-- [ ] Ações realistas
-- [ ] Respeito aos outros jogadores
-
-## ❓ Perguntas Frequentes
-
-**Q: Posso usar sotaque?**
-R: Sim, desde que seja respeitoso.
-
-**Q: E se alguém quebrar as regras?**
-R: Grave e abra ticket no Discord.
-
-**Q: Como reportar?**
-R: Gravação + ticket em até 3 dias.
+- **Interação**: Outros podem ajudar chamando o samu
 
 ---
