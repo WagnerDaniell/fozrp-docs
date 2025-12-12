@@ -93,38 +93,6 @@ Tabela completa de preços, categorias e informações sobre veículos do FOZ RP
 
 ---
 
-## ⚖️ **LÓGICA DOS PREÇOS:**
-
-### **1. Popular = 3-6h trabalho**
-- Fusca: R$ 20k = 3h de transportadora
-- Saveiro: R$ 40k = 6h de transportadora
-
-### **2. Intermediário = 7-17h trabalho**
-- Golf: R$ 85k = 12h trabalho
-- Hilux: R$ 120k = 17h trabalho
-
-### **3. Esportivo = 26-54h trabalho**
-- Camaro: R$ 280k = 40h trabalho (1 semana)
-- R35: R$ 380k = 54h trabalho (1.5 semanas)
-
-### **4. Luxo = 71-128h trabalho**
-- R8: R$ 500k = 71h trabalho (2 semanas)
-- Veneno: R$ 800k = 114h trabalho (3 semanas)
-
----
-
-## 💰 **COMPARATIVO COM EMPREGOS:**
-
-### **Quanto tempo para comprar? (Transportadora R$ 11k/h)**
-| Veículo | Preço | Horas Trabalho | Dias (8h/dia) |
-|---------|-------|----------------|---------------|
-| Fusca | R$ 20.000 | 1.8h | 0.2 dias |
-| Golf | R$ 95.000 | 7.7h | 1 dia |
-| Civic SI | R$ 110.000 | 10h | 1.25 dias |
-| Camaro | R$ 280.000 | 25.5h | 3.2 dias |
-| R8 | R$ 500.000 | 45.5h | 5.7 dias |
-| Veneno | R$ 800.000 | 72.7h | 9 dias |
-
 ## 🛡️ Seguro Veicular
 **Pagamento:** 25% do valor do veiculo.
 **Recuperação Veicular:** 10% do valor do veiculo.
