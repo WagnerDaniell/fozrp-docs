@@ -15,10 +15,10 @@ Tabela completa de preços, categorias e informações sobre veículos do FOZ RP
 | **VW Fusca** | R$ 20.000 | Carro de entrada |
 | **VW Brasília** | R$ 22.000 | Clássico |
 | **VW Gol Quadrado** | R$ 25.000 | Popular nacional |
-| **Chevrolet Chevette** | R$ 25.000 | Clássico |
+| **Chevrolet Chevette** | R$ 28.000 | Clássico |
 | **Chevrolet Caravan** | R$ 28.000 | Perua útil |
-| **VW Santana** | R$ 35.000 | Sedan básico |
-| **Chevrolet Omega 4.1** | R$ 32.000 | Executivo antigo |
+| **VW Santana** | R$ 32.000 | Sedan básico |
+| **Chevrolet Omega 4.1** | R$ 35.000 | Executivo antigo |
 | **Fiat Uno Mille** | R$ 22.000 | Popular econômico |
 | **Fiat Stilo** | R$ 35.000 | Compacto |
 | **Fiat Punto** | R$ 38.000 | Hatch médio |
@@ -72,7 +72,7 @@ Tabela completa de preços, categorias e informações sobre veículos do FOZ RP
 
 ---
 
-## 🏍️ **MOTOS (PRECIFICAÇÃO REAL)**
+## 🏍️ **MOTOS**
 
 | Moto | Preço Correto | Justificativa |
 |------|---------------|---------------|
