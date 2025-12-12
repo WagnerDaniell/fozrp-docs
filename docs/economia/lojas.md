@@ -96,12 +96,4 @@ Gasolina: 100L = R$ 300
 Total: R$ 1.600
 ```
 
-### Kit Aventura (R$ 10.000+):
-```lua
-Mochila Média: R$ 10.000
-Kit Reparo: 5x = R$ 2.500
-Suprimentos: R$ 1.000
-Total: R$ 14.200
-```
-
 **Próximo:** [Sistema de Veículos →](veiculos)

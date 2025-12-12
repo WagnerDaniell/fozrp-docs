@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Sistema de Multas e Taxas
 
-Sistema completo de penalidades financeiras e taxas administrativas do FOZ RP.
+Não finalizado - Sistema completo de penalidades financeiras e taxas administrativas do FOZ RP.
 
 ## 🚓 Multas Policiais
 
