@@ -10,10 +10,10 @@ SISTEMA VIP & BENEFÍCIOS - FOZ RP
 
 | Valor Real | Coins | Equivalente In-Game | O que compra |
 |------------|-------|---------------------|--------------|
-| **R$ 20** | 200 coins | **R$ 40.000** | 1 carro popular + sobra |
-| **R$ 50** | 500 coins | **R$ 150.000** | 1 casa simples OU 2 carros médios |
-| **R$ 100** | 1.000 coins | **R$ 350.000** | 1 casa média OU 1 carro esportivo |
-| **R$ 200** | 2.000 coins | **R$ 700.000** | Quase 1 mansão OU setup completo |
+| **R$ 20** | 2000 coins | **R$ 40.000** | 1 carro popular + sobra |
+| **R$ 50** | 5000 coins | **R$ 150.000** | 1 casa simples OU 2 carros médios |
+| **R$ 100** | 10.000 coins | **R$ 350.000** | 1 casa média OU 1 carro esportivo |
+| **R$ 200** | 20.000 coins | **R$ 700.000** | Quase 1 mansão OU setup completo |
 
 ---
 

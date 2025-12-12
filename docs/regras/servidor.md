@@ -1,133 +1,118 @@
 ---
-sidebar_position: 2
+title: Regras do Servidor
+sidebar_position: 1
+description: Regras gerais do servidor FOZ RP 2025 com penalidades
 ---
 
 # Regras do Servidor
 
-## 🚫 Regras Gerais
+As regras gerais devem ser seguidas por todos os jogadores do servidor FOZ RP 2025.
 
-### 1. Respeito Mútuo
-- Respeite todos os jogadores
-- Sem ofensas pessoais
-- Sem discriminação de qualquer tipo
-**Punição**: Advertência → Kick → Ban temporário
+## Regras de Roleplay
 
-### 2. Spam e Flood
-- Não envie mensagens repetidas
-- Não abuse do chat de voz
-- Não spam em qualquer canal
-**Punição**: Mute → Kick
+### PowerGaming
+É proibido fazer algo que não seria possível de se fazer na vida real, abusar da mecânica do jogo para obter vantagem.
+**Penalidade: 1-3 dias de banimento**
 
-### 3. Publicidade
-- Proibido divulgar outros servidores
-- Proibido divulgar Discord externo
-- Proibido vender contas/itens por dinheiro real
-**Punição**: Ban permanente
+### MetaGaming
+É proibido utilizar informações externas dentro do roleplay (informações vindas de Discord, YouTube, etc.).
+**Penalidade: 2-4 dias de banimento**
 
-### 4. Bug Exploit
-- Reportar bugs é obrigatório
-- Não abuse de falhas do servidor
-- Não compartilhe exploits
-**Punição**: Ban permanente + wipe de conta
+### Vehicle Deathmatch
+É proibido utilizar um veículo como arma para causar danos a um personagem.
+**Penalidade: 3-5 dias de banimento**
 
-### 5. Mod Menu / Cheats
-- Qualquer tipo de hack é proibido
-- Programas que dão vantagem são banidos
-- Macros são proibidos
-**Punição**: Ban permanente IP
+### Random Deathmatch
+É proibido matar outro jogador sem nenhuma razão. Deliberadamente tentar começar uma briga sem nenhuma razão para poder matar também não é permitido.
+**Penalidade: 3-5 dias de banimento**
 
-## 🎮 Regras de Gameplay
+### Combat Logging
+É proibido desconectar de uma ação que você esteja envolvido.
+**Penalidade: 1-3 dias de banimento**
 
-### Safe Zones
-Áreas protegidas onde PvP é proibido:
-- Hospital
-- Delegacia
-- Garagem central
-- Spawn inicial
+### Out Of Character (OOC)
+É proibido sair do personagem dentro do jogo, falando coisas que só existem fora dele, ou falando como a pessoa fora dele (você).
+**Penalidade: 1-2 dias de banimento**
 
-### Red Zones
-Áreas de alto risco:
-- Favelas
-- Pontos de drogas
-- Áreas de facções
+### In Character (IC)
+Siga seu roleplay sem sair do seu personagem.
+**Penalidade: 1-2 dias de banimento por descumprimento**
 
-### Discord
-- Siga as regras do Discord
-- Canal correto para cada assunto
-- Sem briga em canais públicos
+### Dark RP
+É proibido fazer ofensas utilizando racismo, homofobia, etc.
+**Penalidade: Banimento Permanente**
 
-## ⚖️ Sistema de Punições
+### Revenge-Kill
+É proibido morrer e voltar para se vingar.
+**Penalidade: 2-4 dias de banimento**
 
-### Advertências
-- 3 advertências = 1 dia ban
-- 5 advertências = 3 dias ban
-- 10 advertências = 7 dias ban
+## Regras Gerais do Servidor
 
-### Bans Temporários
-| Duração | Motivo |
-|---------|--------|
-| 1 dia | Infração leve |
-| 3 dias | Infração média |
-| 7 dias | Infração grave |
-| 15 dias | Infração muito grave |
-| 30 dias | Reincidência |
+1. **Proibido aplicar qualquer tipo de golpe ou fraude contra outros jogadores.**
+   **Penalidade: 3-5 dias de banimento**
 
-### Ban Permanente
-- Cheats/Hacks
-- Toxicidade extrema
-- Bug exploit grave
-- Discriminação
+2. **É terminantemente proibido matar jogadores em áreas consideradas safe-zones.**
+   **Penalidade: 3-5 dias de banimento**
 
-## 🎯 Sistema de Reports
+3. **Não é permitido iniciar ações dentro de safe-zones**, como tentativas de assalto, sequestro, roubo, RDM, venda de drogas ou armas, ameaças ou agressões.
+   **Penalidade: 2-4 dias de banimento**
 
-### Como Reportar
-1. Grave a situação (obrigatório)
-2. Abra ticket no Discord
-3. Forneça: ID do jogador, horário, descrição
-4. Aguarde resposta da staff
+4. **Proibida a divulgação ou promoção de outros servidores.**
+   **Penalidade: Banimento Permanente**
 
-### Tempo de Resposta
-- Urgente: 1-2 horas
-- Normal: 24 horas
-- Baixa prioridade: 48 horas
+5. **É proibido possuir mais de um personagem por conta.**
+   **Penalidade: 3-5 dias de banimento**
 
-### Report Falso
-- Advertência na primeira vez
-- Ban 3 dias na segunda
-- Ban permanente na terceira
+6. **Após ser reanimado, você não deve se lembrar de nenhum acontecimento anterior à sua morte.**
+   **Penalidade: 1-2 dias de banimento**
 
-## 📊 Whitelist
+7. **Evite spam ou flood nos chats.** Digite com moderação.
+   **Penalidade: 1-3 dias de banimento**
 
-### Requisitos
-- Idade mínima: 16 anos
-- Microfone funcional
-- Discord ativo
-- Conhecimento básico de RP
+8. **Proibido o uso de modificadores de voz ou microfone de forma inadequada** que atrapalhe a experiência dos outros jogadores.
+   **Penalidade: 1-3 dias de banimento**
 
-### Processo
-1. Preencha formulário
-2. Aguarde aprovação (24-48h)
-3. Entrevista com staff
-4. Aprovação final
+9. **Proibida a divulgação de conteúdos impróprios**, incluindo materiais NSFW (Not Safe For Work).
+   **Penalidade: 3-5 dias de banimento**
 
-### Perda de Whitelist
-- Banimento permanente
-- Inatividade extrema (180 dias)
-- Má conduta grave
+10. **É proibido explorar ou abusar de bugs** que concedam vantagens indevidas durante ações.
+    **Penalidade: 3-5 dias de banimento**
 
-## ⚠️ Situações Especiais
+11. **Proibido realizar prisões de forma intencionalmente errada ou sem justificativa.**
+    **Penalidade: 2-4 dias de banimento**
 
-### Queda de Conexão
-- Até 5 minutos: Pode retornar
-- Durante ação: 2 minutos para retornar
-- Combat logging acidental: Prove com print
+12. **Membros de facções ou corporações só podem realizar ações com o nome devidamente correto.**
+    **Penalidade: 1-3 dias de banimento**
 
-### Bugs do Servidor
-- Reporte imediatamente
-- Não aproveite da situação
-- Colabore com correção
+13. **Proibido o uso de hacks ou o abuso de bugs graves.**
+    **Penalidade: Banimento Permanente**
 
-### Eventos
-- Regras podem ser modificadas
-- Siga instruções da staff
-- Divirta-se!
+14. **É proibido utilizar nicks invisíveis ou inadequados.**
+    **Penalidade: 1-3 dias de banimento**
+
+15. **Os policiais devem estar devidamente uniformizados e identificados após bater ponto.** É proibido permanecer à paisana durante o serviço.
+    **Penalidade: 1-2 dias de banimento**
+
+16. **Denúncias devem ser feitas no prazo de até 3 dias** após a gravação do ocorrido.
+    **Penalidade: Denúncia não será considerada após o prazo**
+
+17. **É proibido utilizar veículos de trabalho para fins pessoais ou benefícios próprios.**
+    **Penalidade: 1-3 dias de banimento**
+
+18. **Se você for rendido, abordado ou abatido, estará automaticamente sem comunicação** (rádio, chat, etc.).
+    **Penalidade: 1-3 dias de banimento**
+
+19. **É proibido correr para uma área verde durante uma ação em andamento.**
+    **Penalidade: 2-4 dias de banimento**
+
+20. **É obrigatório usar a voz em abordagens.** Não é permitido apenas mandar bind em situações de confronto.
+    **Penalidade: 1-3 dias de banimento**
+
+21. **Proibido abordar outros jogadores usando apenas bind, sem interação de voz.**
+    **Penalidade: 1-3 dias de banimento**
+
+22. **É proibido vender armas por valores diferentes da tabela oficial de preços** (Tabela Geral de Armas).
+    **Penalidade: 2-4 dias de banimento**
+
+23. **É proibido usar taser enquanto estiver à paisana.**
+    **Penalidade: 1-3 dias de banimento**

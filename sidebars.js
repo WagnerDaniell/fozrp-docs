@@ -22,11 +22,9 @@ const sidebars = {
         slug: '/regras',
       },
       items: [
-        'regras/roleplay',
         'regras/servidor',
         'regras/faccoes',
         'regras/corporacoes',
-        'regras/punicoes',
       ],
     },
     {
