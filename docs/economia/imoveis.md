@@ -46,35 +46,19 @@ Sistema completo de propriedades, aluguéis e impostos do FOZ RP.
 
 ### Cálculo do IPTU:
 ```
-IPTU Semanal = Valor do Imóvel × 2%
+IPTU pagamento em quinzenais = Valor do Imóvel × 10% - Tolerância de 5 dias.
 ```
-
-### Exemplos:
-- **Kitnet R$ 30.000:** R$ 600/semana
-- **Casa Simples R$ 80.000:** R$ 1.600/semana  
-- **Casa Média R$ 250.000:** R$ 5.000/semana
-- **Mansão R$ 1.200.000:** R$ 24.000/semana
-
-### Pagamento:
-- **Quando:** Toda sexta-feira
-- **Como:** Automático da conta
-- **Atraso:** Multa de 10% por dia
-- **Inadimplência:** Perda do imóvel após 30 dias
 
 ## 🏡 Sistema de Aluguel
 
-### Aluguel Player-to-Player:
-| Imóvel | Aluguel Semanal | Caução |
-|--------|-----------------|--------|
-| **Kitnet** | R$ 1.000-2.000 | R$ 2.000 |
-| **Casa Simples** | R$ 2.000-4.000 | R$ 5.000 |
-| **Casa Média** | R$ 5.000-8.000 | R$ 10.000 |
-
 ### Regras de Aluguel:
-1. **Contrato:** Mínimo 1 semana, máximo 1 mês
-2. **Pagamento:** Adiantado
-3. **Danos:** Descontados da caução
-4. **Despejo:** Após 3 dias sem pagar
+**Contrato:**  7 dias
+
+## 🏡 venda para imobiliaria
+```
+Taxa de 15%
+```
+
 
 ## 📍 Localizações
 
@@ -128,11 +112,3 @@ Guarda: R$ 10.000/semana
 Segurança total: R$ 50.000
 Total: R$ 1.250.000
 ```
-
-## ⚠️ Penalidades e Multas
-
-### IPTU Atrasado:
-- **1-7 dias:** Multa 10%
-- **8-14 dias:** Multa 25%
-- **15-30 dias:** Multa 50% + risco de apreensão
-- **+30 dias:** Imóvel apreendido e leiloado

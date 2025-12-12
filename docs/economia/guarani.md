@@ -2,7 +2,7 @@
 sidebar_position: 11
 ---
 
-# ESistema de Câmbio*
+# Sistema de Câmbio
 
 Sistema Guarani - FOZ RP
 
