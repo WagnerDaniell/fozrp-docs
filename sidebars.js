@@ -46,7 +46,7 @@ const sidebars = {
         'economia/veiculos',
         'economia/lojas',
         'economia/salarios',
-        'economia/fronteira',
+        'economia/guarani',
 
       ],
     },

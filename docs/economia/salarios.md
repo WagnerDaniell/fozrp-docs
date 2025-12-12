@@ -30,25 +30,25 @@ Sistema completo de remuneração para carreiras profissionais do FOZ RP.
 ## 🔧 Mecânicos
 
 ### Hierarquia e Salários:
-| Patente | Salário/Hora | Bônus/Reparo |
-|---------|--------------|--------------|
-| **Aprendiz** | R$ 3.000 | R$ 800 |
-| **Mecânico Júnior** | R$ 5.500 | R$ 800 | 
-| **Mecânico** | R$ 7.000 | R$ 800 | 
-| **Mecânico Sênior** | R$ 8.500 | R$ 800 | 
-| **Especialista** | R$ 11.500 | R$ 800 | 
-| **Líder de Oficina** | R$ 13.500 | R$ 800 |
-| **Gerente** | R$ 15.500 | R$ 800 |
+| Patente | Salário/Hora |
+|---------|--------------|
+| **Aprendiz** | R$ 5.000 |
+| **Mecânico Júnior** | R$ 7.500 |
+| **Mecânico** | R$ 9.000 |
+| **Mecânico Sênior** | R$ 11.500 |
+| **Especialista** | R$ 14.500 |
+| **Líder de Oficina** | R$ 16.500 |
+| **Gerente** | R$ 18.500 |
 
 *\*Considerando 1 reparo por hora*
 
 ## 🏥 Médicos (SAMU)
 
 ### Hierarquia e Salários:
-| Patente | Salário/Hora | Bônus/Atendimento |
-|---------|--------------|-------------------|
-| **Estagiário** | R$ 6.500 | R$ 100 |
-| **Enfermeiro** | R$ 9.000 | R$ 200 |
-| **Médico** | R$ 13.000 | R$ 300 |
-| **Cirurgião** | R$ 15.000 | R$ 400 |
-| **Coordenador** | R$ 18.000 | R$ 500 |
+| Patente | Salário/Hora |
+|---------|--------------|
+| **Estagiário** | R$ 7.500 |
+| **Enfermeiro** | R$ 10.000 |
+| **Médico** | R$ 15.000 |
+| **Cirurgião** | R$ 17.000 |
+| **Coordenador** | R$ 19.000 |

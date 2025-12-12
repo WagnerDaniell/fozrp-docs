@@ -18,7 +18,7 @@ Tabela completa de preços de armas e munições do FOZ RP.
 | **Faca** | R$ 800 | | ✅ Legal (com porte) 
 | **Tec-9** | R$ 3.500 | 9mm | ✅ Legal (com porte) 
 | **Glock** | R$ 6.000 | 9mm | ✅ Legal (com porte) 
-| **Deagle** | R$ 20.000 | .50AE | ✅ Legal (com porte) 
+| **Deagle** | R$ 20.000 | 9mm | ✅ Legal (com porte) 
 
 ## 🏹 Fuzis e Espingardas
 
@@ -36,7 +36,6 @@ Tabela completa de preços de armas e munições do FOZ RP.
 | **9mm** | R$ 600 | Tec-9, Glock, MP5 |
 | **calibre.12** | R$ 1.000 | Shotgun |
 | **5.56** | R$ 1.800 | M4, AK-47 |
-| **.50AE** | R$ 800 | Deagle |
 
 ## 🛒 Onde Comprar
 
@@ -53,7 +52,7 @@ Tabela completa de preços de armas e munições do FOZ RP.
 ## ⚖️ Legalidade e Porte
 
 ### Porte Legal (Armas Brancas/Pistolas):
-- **Valor:** Ainda não definido
+- **Valor:** R$5000
 
 ## ⚠️ Regras de Venda (Facções)
 

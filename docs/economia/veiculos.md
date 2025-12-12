@@ -48,7 +48,9 @@ Tabela completa de preços, categorias e informações sobre veículos do FOZ RP
 | **Rolls-Royce** | R$ 900.000 | 250 km/h |
 
 ## 🛡️ Seguro Veicular
-**Pagamento:** % no valor do veiculo --não definido
+**Pagamento:** 25% do valor do veiculo.
+**Recuperação Veicular:** 10% do valor do veiculo.
+**Apreensão de Veículo:** 10% do valor do veiculo.
 
 ## ⛽ Sistema de Combustível
 
@@ -59,31 +61,14 @@ Tabela completa de preços, categorias e informações sobre veículos do FOZ RP
 ## 📝 Transferência de Propriedade Veicular
 
 ### Custos de Transferência:
-- **Taxa de transferência para Agência:** --Não definido
+- **Taxa de transferência para Agência:** -15%
 
-## 🎨 Customização
+## 🎨 Customização -- A Fazer @Torres
 
-### Tuning Básico:
+### Tabela de Exemplo:
 | Melhoria | Custo | Efeito |
 |----------|-------|--------|
-| **Pintura** | R$ 1.000 | Aparência |
+| **Pintura** | R$ 1.000 | Aparência | 
 | **Rodas** | R$ 2.000 | +5% estabilidade |
 | **Spoiler** | R$ 3.000 | +10% aerodinâmica |
-
-### Tuning Avançado:
-| Melhoria | Custo | Efeito |
-|----------|-------|--------|
-| **Motor** | R$ 10.000 | +20% velocidade |
-| **Transmissão** | R$ 8.000 | +15% aceleração |
-| **Suspensão** | R$ 5.000 | +25% controle |
-
-### Tuning de Luxo:
-| Melhoria | Custo | Efeito |
-|----------|-------|--------|
-| **Interior Couro** | R$ 15.000 | Status |
-| **Sistema de Som** | R$ 12.000 | Entretenimento |
-| **Blindagem** | R$ 50.000 | +50% resistência |
-
-## ⚠️ Penalidades Veiculares
-**Apreensão de Veículo:** Fazer pagamento no detran da taxa de liberação do veiculo.
 

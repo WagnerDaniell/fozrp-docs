@@ -15,8 +15,8 @@ Atividades ilegais possuem alto risco de prisão, multas e perda de patrimônio.
 ### Preços de Venda:
 | Droga | Preço por Unidade | Risco |
 |-------|-------------------|----------|
-| **Baseado** | R$ 500 | 🔴 Muito Alto |
-| **Cocaína** | R$ 800 | 🔴 Muito Alto |
+| **Baseado** | R$ 250 | 🔴 Muito Alto |
+| **Cocaína** | R$ 400 | 🔴 Muito Alto |
 
 ### Produção - Crafting:
 ```lua
@@ -62,30 +62,68 @@ Custo produção: R$ 20/unidade
 ### Recompensas:
 - **Mínimo:** R$ 100.000
 - **Máximo:** R$ 500.000
-- **Cooldown:** Não Definido
+- **Cooldown:** 1Hr
 - **Risco:** Muito alto
 
-## 🚗 Roubo de Veículos
+# 🚗 **Roubo de Veículos**
 
-### Desmanches:
-- **Porcentagem do Desmanche:** 70% do valor do carro em Guaranis.
-
-### Ferramentas:
+### **Ferramentas:**
 | Item | Preço | Usos | Onde Comprar |
 |------|-------|------|--------------|
-| **LockPick** | R$ 2.000 | Mercado negro - Facções |
+| **LockPick** | R$ 2.000 | Abrir veículos | Mercado negro - Facções |
 
-## 🔫 Contrabando
+---
 
-### Rotas do Paraguai:
-| Item | Compra (PY) | Venda (BR) | Lucro | Risco |
-|------|-------------|------------|-------|-------|
-| **Celular Importado** | R$ 300 | R$ 1.200 | R$ 900 | 🟡 Médio |
-| **VR** | R$ 200 | R$ 800 | R$ 600 | 🟢 Baixo |
-| **Notebook** | R$ 500 | R$ 2.000 | R$ 1.500 | 🟡 Médio |
-| **PS5** | R$ 800 | R$ 2.800 | R$ 2.000 | 🔴 Alto |
-| **Tablet** | R$ 350 | R$ 1.200 | R$ 850 | 🟡 Médio |
-| **Fone Importado** | R$ 150 | R$ 600 | R$ 450 | 🟢 Baixo |
+### **Desmanche Las Venturas:**
+- **Localização:** Las Venturas (Paraguai)
+- **Moeda de pagamento:** **Guarani (PY)**
+- **Porcentagem fixa:** **50% do valor do carro em Guaranis**
+- **Conversão:** 1 PY = 0,25 R$ (1 R$ = 4 PY)
+
+**Valores de Exemplo:**
+- Carro Popular (R$ 25.000) → **50.000 PY** (equiv. R$ 12.500)
+- Carro SUV (R$ 100.000) → **200.000 PY** (equiv. R$ 50.000)
+- Carro Luxo (R$ 400.000) → **800.000 PY** (equiv. R$ 200.000)
+
+---
+
+# 🔫 **Contrabando**
+
+### **Rotas Paraguai → Brasil:**
+| Item | Compra (PY) | Venda (BR) | Lucro (R$) | Risco |
+|------|-------------|------------|------------|-------|
+| **Celular Importado** | **6.000 PY** | R$ 1.800 | **R$ 300** | 🟡 Médio |
+| **VR** | **2.720 PY** | R$ 800 | **R$ 120** | 🟢 Baixo |
+| **Notebook** | **15.200 PY** | R$ 4.500 | **R$ 700** | 🟡 Médio |
+| **PS5** | **12.000 PY** | R$ 3.500 | **R$ 500** | 🔴 Alto |
+| **Tablet** | **6.800 PY** | R$ 2.000 | **R$ 300** | 🟡 Médio |
+| **Fone Importado** | **2.040 PY** | R$ 600 | **R$ 90** | 🟢 Baixo |
+| **Mochila Média** | **48.000 PY** | R$ 14.000 | **R$ 2.000** | 🟡 Médio |
+| **Mochila Grande** | **96.000 PY** | R$ 28.000 | **R$ 4.000** | 🔴 Alto |
+
+**Conversão:** 1 PY = 0,25 R$ (4 PY = 1 R$)
+
+---
+
+### **Limites de Transporte:**
+| Item | Peso | Máximo por Viagem |
+|------|------|-------------------|
+| Celular | 1 | 3 unidades |
+| VR/Fones | 1 | 3 unidades |
+| PS5 | 4 | 3 unidades |
+| Notebook | 3 | 5 unidades |
+| **Peso Total Máximo:** | **15** | por veículo |
+
+---
+
+### **Riscos do Contrabando:**
+- **🟢 Baixo Risco:** Itens pequenos (VR, Fones) - Chance blitz: 20%
+- **🟡 Médio Risco:** Eletrônicos médios (Celulares, Tablets, Mochilas Médias) - Chance blitz: 30%
+- **🔴 Alto Risco:** Itens grandes/valiosos (PS5, Notebooks, Mochilas Grandes) - Chance blitz: 40%
+
+**Penalidade se pego:** Perde toda mercadoria + multa R$ 5.000
+
+---
 
 ### Sistema de Risco:
 - **Blitz policial:** 25% chance
