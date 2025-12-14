@@ -32,18 +32,18 @@ Tabela completa de preços, categorias e informações sobre veículos do FOZ RP
 *7-17 horas de trabalho*
 | Veículo | Preço Correto | Justificativa |
 |---------|---------------|---------------|
-| **VW Jetta** | R$ 85.000 |
-| **VW Golf** | R$ 95.000 |
+| **VW Jetta** | R$ 115.000 |
+| **VW Golf** | R$ 125.000 |
 | **VW Polo GTI** | R$ 70.000 | Esportivo compacto |
-| **Honda Civic SI** | R$ 110.000 | Esportivo médio |
+| **Honda Civic SI** | R$ 135.000 | Esportivo médio |
 | **Ford Maverick** | R$ 75.000 | Muscle car antigo |
 | **Ford Ranger** | R$ 120.000 | Pickup grande |
 | **Jeep Compass** | R$ 95.000 | SUV médio |
 | **Toyota Hilux** | R$ 120.000 | Pickup top |
-| **Mitsubishi Lancer** | R$ 85.000 | Sedan esportivo |
+| **Mitsubishi Lancer** | R$ 95.000 | Sedan esportivo |
 | **Subaru WRX** | R$ 105.000 | Turbo, AWD |
 | **Mercedes A45** | R$ 140.000 | Premium compacto |
-| **Mercedes Sprinter 311** | R$ 100.000 | Van comercial |
+| **Mercedes Sprinter 311** | R$ 120.000 | Van comercial |
 
 ---
 
@@ -51,13 +51,13 @@ Tabela completa de preços, categorias e informações sobre veículos do FOZ RP
 *26-54 horas de trabalho*
 | Veículo | Preço Correto | Justificativa |
 |---------|---------------|---------------|
-| **Chevrolet Camaro** | R$ 280.000 | Muscle moderno |
 | **Land Rover Velar** | R$ 220.000 | SUV premium |
-| **BMW X5** | R$ 250.000 | SUV executivo |
+| **Chevrolet Camaro** | R$ 250.000 | Muscle moderno |
+| **BMW X5** | R$ 280.000 | SUV executivo |
 | **BMW M4 Old** | R$ 300.000 | Esportivo premium |
 | **Nissan R34** | R$ 320.000 | JDM lendário |
 | **Nissan R35** | R$ 380.000 | Supercarro |
-| **Toyota Supra** | R$ 250.000 | JDM clássico |
+| **Toyota Supra** | R$ 350.000 | JDM clássico |
 | **Audi RS7** | R$ 350.000 | Sedan superesportivo |
 | **Mercedes AMG63** | R$ 320.000 | Premium esportivo |
 
@@ -67,8 +67,8 @@ Tabela completa de preços, categorias e informações sobre veículos do FOZ RP
 *71-128 horas de trabalho*
 | Veículo | Preço Correto | Justificativa |
 |---------|---------------|---------------|
-| **Audi R8** | R$ 500.000 | Supercarro V10 |
-| **Lamborghini Veneno** | R$ 800.000 | Hypercar extremo |
+| **Audi R8** | R$ 700.000 | Supercarro V10 |
+| **Lamborghini Veneno** | R$ 1.200.000 | Hypercar extremo |
 
 ---
 
@@ -88,8 +88,7 @@ Tabela completa de preços, categorias e informações sobre veículos do FOZ RP
 
 | Embarcação | Preço Correto | Justificativa |
 |------------|---------------|---------------|
-| **Lancha** | R$ 300.000 | Barco recreativo |
-| **Iate** | R$ 700.000 | Luxo marítimo |
+| **Iate** | R$ 1.100.000 | Luxo marítimo |
 
 ---
 
