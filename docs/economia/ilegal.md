@@ -50,19 +50,19 @@ Custo produção: R$ 20/unidade
 ## 🏦 Assalto a Banco
 
 ### Requisitos:
-- **Mínimo 5 bandidos**
-- **Mínimo 5 policiais online**
+- **Mínimo 8 policiais online**
 
 ### Fases:
-1. **Entrada (2 min):** Dominar recepção
-2. **Cofre (5 min):** Explodir porta
-3. **Coleta (3 min):** Pegar dinheiro
+1. **Entrada:** Invadir
+2. **Cofre:** Explodir porta
+3. **Coleta:** Pegar dinheiro
 4. **Fuga:** Escapar da polícia
+5. **Tempo até as portas abrirem** 5 minutos
 
 ### Recompensas:
-- **Mínimo:** R$ 100.000
-- **Máximo:** R$ 500.000
-- **Cooldown:** 1Hr
+- **Mínimo:** R$ 137.000 Sujo
+- **Máximo:** R$ 300.000 Sujo
+- **Cooldown:** 45Min
 - **Risco:** Muito alto
 
 # 🚗 **Roubo de Veículos**
@@ -70,7 +70,7 @@ Custo produção: R$ 20/unidade
 ### **Ferramentas:**
 | Item | Preço | Usos | Onde Comprar |
 |------|-------|------|--------------|
-| **LockPick** | R$ 2.000 | Abrir veículos | Mercado negro - Facções |
+| **LockPick** | R$ 1.500 | Abrir veículos | Mercado negro - Facções |
 
 ---
 
@@ -144,9 +144,7 @@ Custo produção: R$ 20/unidade
 | Vítima | Resgate Sugerido |
 |--------|------------------|
 | **Cidadão Comum** | R$ 10.000-30.000 | 
-| **Empresário** | R$ 40.000-70.000 | 
-| **Político** | R$ 70.000-90.000 |
-| **Rival Facção** | R$ 90.000-110.000 |
+| **Rival Facção** | R$ 30.000-50.000 |
 
 ## 💵 Lavagem de Dinheiro
 
