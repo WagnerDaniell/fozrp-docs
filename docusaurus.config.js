@@ -78,11 +78,6 @@ const config = {
             position: 'left',
           },
           {
-            to: '/sistemas',
-            label: 'Sistemas',
-            position: 'left',
-          },
-          {
             to: '/economia',
             label: 'Economia',
             position: 'left',
@@ -107,10 +102,6 @@ const config = {
               {
                 label: 'Economia',
                 to: '/economia',
-              },
-              {
-                label: 'Sistemas',
-                to: '/sistemas',
               },
             ],
           },

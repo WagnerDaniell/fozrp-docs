@@ -49,21 +49,6 @@ const sidebars = {
 
       ],
     },
-    {
-      type: 'category',
-      label: 'Sistemas',
-      link: {
-        type: 'generated-index',
-        title: 'Sistemas do Servidor',
-        description: 'Sistemas de polícia, facções e mecânicas',
-        slug: '/sistemas',
-      },
-      items: [
-        'sistemas/policia',
-        'sistemas/lojinha',
-        'sistemas/resgate',
-      ],
-    },
   ],
 };
 
