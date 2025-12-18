@@ -6,56 +6,63 @@ description: Guia completo de renda para cidadãos.
 
 # Central de Empregos
 
-Tabela oficial de ganhos. Os valores foram balanceados para que o jogador consiga progredir sem precisar "grindar" 24 horas por dia.
+Valores ajustados considerando a alta rotatividade.
+*Os cálculos abaixo consideram um jogador experiente fazendo as rotas com eficiência máxima.*
 
-## 📊 Resumo de Rendimentos
+## 📊 Resumo de Rendimentos (Teto Estimado)
 
-| Emprego | Nível | R$/Hora (Média) | Requisitos |
-|---------|-------|-----------------|------------|
-| **Lixeiro** | Iniciante | R$ 3.500 - R$ 4.500 | Nenhum |
-| **iFood** | Iniciante | R$ 4.000 - R$ 5.000 | Nenhum |
+| Emprego | Nível | R$/Hora (Média Máxima) | Requisitos |
+|---------|-------|------------------------|------------|
+| **Lixeiro** | Iniciante | R$ 3.500 - R$ 4.200 | Nenhum |
+| **iFood** | Iniciante | R$ 4.000 - R$ 4.800 | Moto Própria |
 | **Leiteiro** | Iniciante | R$ 4.500 - R$ 5.500 | Garrafas |
-| **Minerador** | Intermediário | R$ 6.000 - R$ 7.500 | Picareta |
-| **Aviador** | Intermediário | R$ 6.500 - R$ 8.000 | Licença Aérea |
-| **Lenhador** | Avançado | R$ 7.000 - R$ 9.000 | Machado + CNH C |
-| **Transportadora** | Avançado | R$ 9.000 - R$ 11.000 | CNH C |
+| **Minerador** | Intermediário | R$ 6.000 - R$ 7.000 | Picareta (Sorte) |
+| **Aviador** | Intermediário | R$ 7.000 - R$ 8.500 | Licença Aérea |
+| **Lenhador** | Avançado | R$ 8.000 - R$ 9.500 | Machado + CNH C |
+| **Transportadora** | Avançado | R$ 9.500 - R$ 11.000 | CNH C + Caminhão |
 
 ---
 
 ## 🚮 Lixeiro
-**Descrição:** Coleta de lixo urbana.
-* **Pagamento:** R$ 360 - R$ 420 por parada (6 sacos).
-* **Vantagem:** O dinheiro entra rápido na conta.
+**Descrição:** Coleta de lixo urbana. Serviço mais lento devido à animação de coletar sacos.
+* **Pagamento:** **R$ 250 - R$ 300** por parada completa.
+* **Cálculo:** Em 1 hora, faz-se média de 14 paradas = ~R$ 4.200.
 
 ## 🛵 iFood
-**Descrição:** Entregas rápidas.
-* **Pagamento:** R$ 400 - R$ 500 por entrega.
-* **Dica:** Mete marcha irmão.
+**Descrição:** Entregas rápidas. O valor unitário é baixo pois é possível fazer muitas entregas.
+* **Pagamento:** **R$ 180 - R$ 220** por entrega.
+* **Cálculo:** Um piloto rápido faz 20 a 25 entregas/hora = ~R$ 4.500.
+* **Dica:** O lucro está na agilidade. Não pare para conversar.
 
 ## 🥛 Leiteiro
-**Descrição:** Ordenha e venda de leite.
+**Descrição:** Ordenha e venda. Exige investimento inicial nas garrafas.
 * **Custo Garrafa:** R$ 20.
-* **Venda Leite:** R$ 80.
-* **Lucro:** R$ 60 limpos por unidade.
-* **Ciclo:** 29 Vacas disponíveis na fazenda.
+* **Venda Leite:** R$ 70.
+* **Lucro Líquido:** **R$ 50** por garrafa.
+* **Vantagem:** Pode estocar leite e vender tudo de uma vez.
 
 ## ⛏️ Minerador
-**Descrição:** Mineração e venda de pedras preciosas.
-* **Metal:** R$ 40 (Comum).
-* **Esmeralda:** R$ 1.200 (Raro).
-* **Rubi:** R$ 2.500 (Muito Raro).
-* **Diamante:** R$ 4.000 (Lendário).
+**Descrição:** Mineração. Renda baseada na sorte (RNG).
+* **Metal:** R$ 35 (Comum - Sai toda hora).
+* **Esmeralda:** R$ 800 (Incomum).
+* **Rubi:** R$ 1.500 (Raro).
+* **Diamante:** R$ 3.000 (Lendário).
+* **Obs:** A média horária considera que você vai pegar muito metal e poucas pedras raras.
 
 ## 🌲 Lenhador
-**Descrição:** Corte e transporte de madeira bruta.
-* **Pagamento:** ~R$ 2.400 por viagem completa (Caminhão cheio).
-* **Tempo:** Rota média de 10-15 minutos.
+**Descrição:** Corte e transporte. Exige ir até a floresta (longe) e voltar.
+* **Pagamento:** **R$ 2.200** por viagem completa.
+* **Tempo:** A rota leva cerca de 15 minutos.
+* **Total:** 4 viagens por hora = R$ 8.800.
 
 ## 🚚 Transportadora
-**Descrição:** Logística de cargas valiosas.
-* **Pagamento:** R$ 8.500 - R$ 11.000 por rota.
-* **Detalhe:** É o emprego que mais paga, mas exige viagens longas e cuidado com a carga.
+**Descrição:** Logística de cargas pesadas. É o emprego "End Game" legal.
+* **Pagamento:** **R$ 4.500 - R$ 5.500** por rota longa.
+* **Dinâmica:** Caminhão é lento e as rotas cruzam o mapa.
+* **Tempo:** Média de 25 a 30 minutos por rota (ida e volta).
+* **Total:** 2 rotas completas por hora = ~R$ 10.000 a R$ 11.000.
 
 ## ✈️ Aviador
-**Descrição:** Transporte de passageiros e cargas leves.
-* **Pagamento:** R$ 350 - R$ 450 por passageiro embarcado.
+**Descrição:** Transporte aéreo. Rápido, mas exige perícia de pouso.
+* **Pagamento:** **R$ 600** por passageiro/carga entregue.
+* **Cálculo:** Rotas aéreas são rápidas, mas o setup de decolagem/pouso toma tempo.

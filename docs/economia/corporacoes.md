@@ -6,38 +6,65 @@ description: Salários de Polícia, Médicos e Mecânicos.
 
 # Carreiras Públicas
 
-Salários competitivos para manter os serviços essenciais ativos.
-*Pagamento realizado a cada 60 minutos (Payday).*
+Sistema de remuneração focado no equilíbrio entre **Estabilidade (Semanal)** e **Atividade (Hora)**.
+
+## 💰 Estrutura de Pagamento
+
+1.  **Salário Semanal (Meta Batida):**
+    * Valor fixo, serve como uma "âncora" de segurança financeira.
+    * Garante que as contas básicas sejam pagas.
+
+2.  **Bônus por Hora (Payday):**
+    * Valor atrativo que incentiva o jogador a permanecer online e ativo.
+    * É onde o jogador consegue o "extra" para luxos.
+
+---
 
 ## 👮 Polícia Militar
-Salários altos para compensar o risco de vida e incentivar o combate ao crime.
+Ajustado para que a patente faça sentido (Cabo não pode ganhar mais que Sargento).
 
-| Patente | Salário Base |
-|---------|--------------|
-| **Recruta** | R$ 8.500 |
-| **Soldado** | R$ 10.000 |
-| **Cabo** | R$ 11.500 |
-| **Sargento** | R$ 13.000 |
-| **Subtenente** | R$ 16.000 |
-| **Oficiais (Tenente+)** | R$ 19.000 - R$ 22.000 |
-| **Comandante Geral** | R$ 30.000 |
+| Patente | Salário Semanal (Meta Batida) | Bônus por Hora (Em Patrulha) |
+|---------|-------------------------------|------------------------------|
+| **Recruta** | R$ 10.000 | R$ 2.500 |
+| **Soldado** | R$ 15.000 | R$ 3.000 |
+| **Cabo** | R$ 18.000 | R$ 3.200 |
+| **Sargento** | R$ 22.000 | R$ 3.500 |
+| **Subtenente** | R$ 28.000 | R$ 3.800 |
+| **Oficiais** | R$ 35.000 | R$ 4.000 |
+| **Comandante** | R$ 50.000 | R$ 4.500 |
+
+:::info CENÁRIO REAL (SOLDADO)
+Um Soldado que joga **2 horas por dia** (14h na semana):
+* **Semanal:** R$ 15.000
+* **Horas:** R$ 42.000 (14 x 3.000)
+* **Total na Semana:** R$ 57.000.
+* *Resultado:* Perfeito. Em um mês ele junta R$ 228.000. Dá para comprar um carro esportivo de entrada, mas a mansão continua longe.
+:::
+
+---
 
 ## 🏥 Hospital (SAMU)
-Valorização dos profissionais que salvam vidas.
+Médicos ganham ligeiramente mais na hora, pois dependem que os players se machuquem para ter RP.
 
-| Cargo | Salário Base |
-|-------|--------------|
-| **Estagiário** | R$ 9.000 |
-| **Enfermeiro** | R$ 12.000 |
-| **Médico** | R$ 16.000 |
-| **Cirurgião** | R$ 19.000 |
-| **Diretor** | R$ 24.000 |
+| Cargo | Salário Semanal (Meta Batida) | Bônus por Hora (Em Plantão) |
+|-------|-------------------------------|-----------------------------|
+| **Estagiário** | R$ 10.000 | R$ 2.500 |
+| **Enfermeiro** | R$ 18.000 | R$ 3.200 |
+| **Médico** | R$ 25.000 | R$ 3.800 |
+| **Cirurgião** | R$ 35.000 | R$ 4.200 |
+| **Diretor** | R$ 45.000 | R$ 5.000 |
+
+---
 
 ## 🔧 Mecânica (LSC)
-O salário base é menor pois a gorjeta e o lucro de tunagens são altos.
+O mecânico tem o salário fixo menor. O foco é forçar o RP de atendimento.
 
-| Cargo | Salário Base | Lucro Real |
-|-------|--------------|------------|
-| **Aprendiz** | R$ 6.500 | Salário + Gorjeta |
-| **Mecânico** | R$ 11.000 | Salário + % Tunagem |
-| **Gerente** | R$ 22.000 | Salário + % Oficina |
+| Cargo | Salário Semanal (Garantido) | Bônus por Hora (Em Serviço) |
+|-------|-----------------------------|-----------------------------|
+| **Aprendiz** | R$ 8.000 | R$ 2.000 |
+| **Mecânico** | R$ 15.000 | R$ 2.500 |
+| **Gerente** | R$ 30.000 | R$ 3.500 |
+
+:::warning NOTA
+O ganho real do mecânico está nas **gorjetas e tunagens**. O salário por hora serve para cobrir os momentos de oficina vazia.
+:::
