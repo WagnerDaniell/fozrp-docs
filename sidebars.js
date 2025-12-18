@@ -37,14 +37,12 @@ const sidebars = {
         slug: '/economia',
       },
       items: [
-        'economia/empregos',
+        'economia/empregos-legais',
         'economia/armas',
-        'economia/imoveis',
         'economia/ilegal',
         'economia/veiculos',
-        'economia/lojas',
-        'economia/salarios',
-        'economia/guarani',
+        'economia/imoveis-lojas',
+        'economia/corporacoes',
         'economia/beneficios',
 
       ],
