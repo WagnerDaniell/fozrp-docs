@@ -35,9 +35,14 @@ Custos em PY definidos para serem baixos, permitindo que a facção use as armas
 | **Glock** | 2.000 PY | R$ 500 |
 | **Tec-9** | 3.000 PY | R$ 750 |
 | **MP5** | 6.000 PY | R$ 1.500 |
+| **ShotGun** | 6.000 PY | R$ 1.500 |
 | **AK-47** | 20.000 PY | R$ 5.000 |
-| **M4A1** | 25.000 PY | R$ 6.250 |
-| **Munição** | 100 PY | R$ 25 |
+| **Colete** | 200 PY | R$ 50 |
+| **9mm** | 100 PY | R$ 25 |
+| **calibre.12** | 200 PY | R$ 50 |
+| **5.56** | 250 PY | R$ 75 |
+| **baseado** | 200 PY | R$ 50 |
+| **cocaina** | 300 PY | R$ 75 |
 
 :::success DINÂMICA
 Roubar **1 carro popular** já paga a fabricação de **3 AK-47s**. Isso mantém o servidor sempre armado e pronto para ação.

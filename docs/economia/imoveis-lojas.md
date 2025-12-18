@@ -48,7 +48,7 @@ Preços tabelados para itens essenciais comprados em mercados de Los Santos.
 
 | Item | Preço | Descrição |
 |------|-------|-----------|
-| **Kit de Reparo** | R$ 500 | Conserta motor do veículo |
+| **Kit de Reparo** | R$ 500 | **Emergência:** Motor 50% e Pneus. (Não funila) |
 | **Lockpick** | R$ 2.000 | Item ilegal (Arrombamento) |
 
 ## 📱 Eletrônicos (Loja Digital Den)
@@ -81,7 +81,8 @@ Itens comprados com **Guarani (PY)** em Las Venturas.
 :::
 
 ## 1. Eletrônicos de Contrabando (Alto Lucro)
-*Foco: Venda para NPCs de Contrabando.*
+*Foco: Venda para NPCs de Contrabando (Illegal).*
+*Os valores de venda foram ajustados para garantir lucro real após a conversão da moeda.*
 
 | Item | Custo PY | Custo Real | Venda NPC (BR) | **Lucro Líquido** |
 |------|----------|------------|----------------|-------------------|
@@ -94,16 +95,16 @@ Itens comprados com **Guarani (PY)** em Las Venturas.
 
 ## 2. "Muamba" (Itens de Uso/Revenda)
 *Foco: Uso Próprio (Pagar barato) ou Revenda para Players.*
-*Comprando aqui, você economiza cerca de **40% a 50%** em relação às lojas de Los Santos.*
 
 | Item | Preço Loja LS | **Preço no PY** | Custo Real (Aprox.) | **Economia** |
 |------|---------------|-----------------|---------------------|--------------|
-| **Kit Reparo** | R$ 500 | **1.200 PY** | R$ 300 | **R$ 200** |
+| **Kit Reparo** | R$ 500 | **2.000 PY** | R$ 500 | **R$ 0** (Igualado) |
 | **Celular** | R$ 1.200 | **2.800 PY** | R$ 700 | **R$ 500** |
 | **Radinho** | R$ 400 | **1.000 PY** | R$ 250 | **R$ 150** |
 | **Mochila G** | R$ 20.000 | **60.000 PY** | R$ 15.000 | **R$ 5.000** |
 | **Energético** | R$ 20 | **40 PY** | R$ 10 | **R$ 10** |
 
 :::tip OPORTUNIDADE DE NEGÓCIO
-Você pode encher a mala de **Kit de Reparo** no Paraguai pagando R$ 300 (em PY) e vender para mecânicos ou players em Los Santos por R$ 400. Você lucra e eles pagam menos que na loja (R$ 500).
+O **Kit de Reparo** custa o mesmo preço nos dois países para incentivar o uso de mecânicos.
+Porém, a **Mochila Grande** custa R$ 15.000 (em PY) e R$ 20.000 na Loja. Você pode trazer várias e vender para players por **R$ 18.000**. Lucro rápido!
 :::
