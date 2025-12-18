@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 title: 🏠 Imóveis e Lojas
-description: Casas, Aluguéis e Itens.
+description: Casas, Aluguéis, Mercado e Importação PY.
 ---
 
 # Sistema de Imóveis
@@ -20,19 +20,90 @@ description: Casas, Aluguéis e Itens.
 
 ---
 
-# Lojas de Conveniência (24/7)
+# Sistema de Lojas (Comércio Legal)
 
-Preços para configuração do script de mercado.
+Preços tabelados para itens essenciais comprados em mercados de Los Santos.
+
+## 🏪 Posto de Gasolina / Conveniência
+
+| Item | Preço | Descrição |
+|------|-------|-----------|
+| **Galão de Gasolina** | R$ 300 | Combustível extra |
+| **Água** | R$ 15 | Recupera sede |
+| **Coca-Cola** | R$ 20 | Recupera sede + energia |
+| **Hot Dog** | R$ 25 | Recupera fome |
+| **Donut** | R$ 15 | Recupera fome leve |
+
+## 🍔 McDonalds
 
 | Item | Preço |
 |------|-------|
-| **Água** | R$ 15 |
+| **Café** | R$ 15 |
+| **Água com Gás (Voss)** | R$ 30 |
 | **Hambúrguer** | R$ 35 |
-| **Kit Reparo** | R$ 500 |
-| **Galão Gasolina** | R$ 300 |
-| **Band-aid** | R$ 50 |
-| **Mochila P** | R$ 5.000 |
-| **Mochila M** | R$ 10.000 |
-| **Mochila G** | R$ 20.000 |
-| **Celular** | R$ 1.200 |
-| **Garrafa Vazia** | R$ 20 |
+| **Doritos** | R$ 25 |
+| **Pizza** | R$ 60 |
+
+## 🔧 Mecânica e Ferramentas
+
+| Item | Preço | Descrição |
+|------|-------|-----------|
+| **Kit de Reparo** | R$ 500 | Conserta motor do veículo |
+| **Lockpick** | R$ 2.000 | Item ilegal (Arrombamento) |
+
+## 📱 Eletrônicos (Loja Digital Den)
+
+| Item | Preço | Descrição |
+|------|-------|-----------|
+| **Celular** | R$ 1.200 | GPS / Banco / Mensagens |
+| **Radinho** | R$ 400 | Comunicação por frequência |
+
+## 🧰 Utilitários e Farmácia
+
+| Item | Preço | Descrição |
+|------|-------|-----------|
+| **Mochila Pequena** | R$ 5.000 | Aumenta peso (P) |
+| **Mochila Média** | R$ 10.000 | Aumenta peso (M) |
+| **Mochila Grande** | R$ 20.000 | Aumenta peso (G) |
+| **Band-aid** | R$ 50 | Cura leve |
+| **Isqueiro (BIC)** | R$ 50 | Acender cigarros |
+| **Pod / Vape** | R$ 80 | Lazer |
+| **Cigarro** | R$ 30 | Lazer / Estresse |
+| **Garrafa Vazia** | R$ 20 | Para Leiteiro |
+
+---
+
+# 📦 Feira do Paraguai (Importação)
+
+Itens comprados com **Guarani (PY)** em Las Venturas.
+:::info CÂMBIO
+**1 Real (BRL) = 4 Guaranis (PY)**
+:::
+
+## 1. Eletrônicos de Contrabando (Alto Lucro)
+*Foco: Venda para NPCs de Contrabando.*
+
+| Item | Custo PY | Custo Real | Venda NPC (BR) | **Lucro Líquido** |
+|------|----------|------------|----------------|-------------------|
+| **Fone Importado** | 2.040 PY | R$ 510 | R$ 910 | **R$ 400** |
+| **Tablet** | 6.800 PY | R$ 1.700 | R$ 2.300 | **R$ 600** |
+| **VR** | 2.720 PY | R$ 680 | R$ 1.280 | **R$ 600** |
+| **Celular Importado** | 6.000 PY | R$ 1.500 | R$ 2.200 | **R$ 700** |
+| **PS5** | 12.000 PY | R$ 3.000 | R$ 3.700 | **R$ 700** |
+| **Notebook** | 15.200 PY | R$ 3.800 | R$ 4.600 | **R$ 800** |
+
+## 2. "Muamba" (Itens de Uso/Revenda)
+*Foco: Uso Próprio (Pagar barato) ou Revenda para Players.*
+*Comprando aqui, você economiza cerca de **40% a 50%** em relação às lojas de Los Santos.*
+
+| Item | Preço Loja LS | **Preço no PY** | Custo Real (Aprox.) | **Economia** |
+|------|---------------|-----------------|---------------------|--------------|
+| **Kit Reparo** | R$ 500 | **1.200 PY** | R$ 300 | **R$ 200** |
+| **Celular** | R$ 1.200 | **2.800 PY** | R$ 700 | **R$ 500** |
+| **Radinho** | R$ 400 | **1.000 PY** | R$ 250 | **R$ 150** |
+| **Mochila G** | R$ 20.000 | **60.000 PY** | R$ 15.000 | **R$ 5.000** |
+| **Energético** | R$ 20 | **40 PY** | R$ 10 | **R$ 10** |
+
+:::tip OPORTUNIDADE DE NEGÓCIO
+Você pode encher a mala de **Kit de Reparo** no Paraguai pagando R$ 300 (em PY) e vender para mecânicos ou players em Los Santos por R$ 400. Você lucra e eles pagam menos que na loja (R$ 500).
+:::

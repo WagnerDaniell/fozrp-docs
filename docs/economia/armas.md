@@ -31,7 +31,7 @@ Preços reduzidos para manter o servidor com PVP ativo e acessível.
 ### Fuzis (Pesado)
 | Arma | Preço Sugerido | Munição |
 |------|----------------|---------|
-| **AK-47** | R$ 35.000 | 7.62 |
+| **AK-47** | R$ 35.000 | 5.56 |
 | **M4A1** | R$ 40.000 | 5.56 |
 | **G36** | R$ 45.000 | 5.56 |
 
@@ -40,7 +40,7 @@ Preços reduzidos para manter o servidor com PVP ativo e acessível.
 |------|-------|
 | **9mm** | R$ 200 |
 | **Calibre 12** | R$ 400 |
-| **5.56 / 7.62** | R$ 500 |
+| **5.56 / 5.56** | R$ 500 |
 
 :::info ACESSIBILIDADE
 Com apenas **3 horas de farm legal**, qualquer cidadão pode comprar uma AK-47 no mercado negro. Isso equilibra o poder de fogo entre civis, bandidos e polícia.
