@@ -14,12 +14,12 @@ Valores ajustados considerando a alta rotatividade.
 | Emprego | Nível | R$/Hora (Média Máxima) | Requisitos |
 |---------|-------|------------------------|------------|
 | **Lixeiro** | Iniciante | R$ 3.500 - R$ 4.200 | Nenhum |
-| **iFood** | Iniciante | R$ 4.000 - R$ 4.800 | Moto Própria |
+| **iFood** | Iniciante | R$ 4.000 - R$ 4.800 | Nenhum |
 | **Leiteiro** | Iniciante | R$ 4.500 - R$ 5.500 | Garrafas |
 | **Minerador** | Intermediário | R$ 6.000 - R$ 7.000 | Picareta (Sorte) |
 | **Aviador** | Intermediário | R$ 7.000 - R$ 8.500 | Licença Aérea |
 | **Lenhador** | Avançado | R$ 8.000 - R$ 9.500 | Machado + CNH C |
-| **Transportadora** | Avançado | R$ 9.500 - R$ 11.000 | CNH C + Caminhão |
+| **Transportadora** | Avançado | R$ 9.500 - R$ 11.000 | CNH C |
 
 ---
 
