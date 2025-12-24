@@ -16,6 +16,15 @@ Troca realizada em qualquer agência bancária.
 
 ---
 
+## 🧺 Lavagem de Dinheiro
+Apenas o dinheiro obtido em **Assaltos** (Caixas, Lojas e Bancos) vem marcado como **Dinheiro Sujo**.
+Para utilizá-lo, você precisa lavá-lo.
+
+* **Taxa de Lavagem:** **30%** é retido pelo lavador/facção.
+* **Retorno:** Você recebe **70%** do valor em dinheiro limpo.
+
+---
+
 ## 🚗 Desmanche de Veículos
 Pagamento em **Guarani (PY)**.
 * **Valor:** **15% a 20%** do valor de tabela do carro.
@@ -30,19 +39,19 @@ Pagamento em **Guarani (PY)**.
 ## 🔫 Crafting de Armas (Configuração do Script)
 Custos em PY definidos para serem baixos, permitindo que a facção use as armas em guerra sem medo de perder.
 
-| Arma | Custo da Taxa (PY) | Custo em Reais (Aprox.) |
+| Item | Custo da Taxa (PY) | Custo em Reais (Aprox.) |
 |------|--------------------|-------------------------|
 | **Glock** | 2.000 PY | R$ 500 |
 | **Tec-9** | 3.000 PY | R$ 750 |
 | **MP5** | 6.000 PY | R$ 1.500 |
-| **ShotGun** | 6.000 PY | R$ 1.500 |
+| **Shotgun** | 6.000 PY | R$ 1.500 |
 | **AK-47** | 20.000 PY | R$ 5.000 |
 | **Colete** | 200 PY | R$ 50 |
-| **9mm** | 100 PY | R$ 25 |
-| **calibre.12** | 200 PY | R$ 50 |
-| **5.56** | 250 PY | R$ 75 |
-| **baseado** | 200 PY | R$ 50 |
-| **cocaina** | 300 PY | R$ 75 |
+| **Munição 9mm** | 100 PY | R$ 25 |
+| **Munição .12** | 200 PY | R$ 50 |
+| **Munição 5.56** | 250 PY | R$ 75 |
+| **Baseado** | 200 PY | R$ 50 |
+| **Cocaína** | 300 PY | R$ 75 |
 
 :::success DINÂMICA
 Roubar **1 carro popular** já paga a fabricação de **3 AK-47s**. Isso mantém o servidor sempre armado e pronto para ação.
@@ -50,11 +59,25 @@ Roubar **1 carro popular** já paga a fabricação de **3 AK-47s**. Isso mantém
 
 ---
 
-## 🏪 Assaltos e Drogas
+## 🏪 Assaltos (Dinheiro Sujo)
+Os valores abaixo sofrem a penalidade da lavagem.
 
-| Atividade | Lucro Estimado | Risco |
-|-----------|----------------|-------|
-| **Venda Drogas (NPC)** | R$ 250 - R$ 400 | 🔴 Alto |
-| **Caixa Eletrônico** | R$ 3.000 - R$ 5.000 | 🟡 Médio |
-| **Loja Depto.** | R$ 8.000 - R$ 12.000 | 🟡 Médio |
-| **Banco** | R$ 150.000+ | 🔴 Muito Alto |
+| Atividade | Valor do Roubo (Sujo) | Lucro Real (Após Lavar 30%) | Risco |
+|-----------|-----------------------|-----------------------------|-------|
+| **Caixa Eletrônico** | R$ 5.000 - R$ 7.000 | **R$ 3.500 - R$ 4.900** | 🟡 Médio |
+| **Loja Depto.** | R$ 15.000 - R$ 20.000 | **R$ 10.500 - R$ 14.000** | 🟡 Médio |
+| **Banco Fleeca** | R$ 300.000 - R$ 400.000 | **R$ 210.000 - R$ 280.000** | 🔴 Muito Alto |
+
+---
+
+## 💊 Tráfico de Drogas (Dinheiro Limpo)
+Venda direta para usuários (NPCs). O dinheiro entra **limpo** na hora, sem taxas.
+
+| Item | Valor de Venda | Risco |
+|------|----------------|-------|
+| **Maconha** | R$ 250 - R$ 350 | 🔴 Alto (Polícia na cola) |
+| **Cocaína** | R$ 350 - R$ 500 | 🔴 Alto (Polícia na cola) |
+
+:::info VANTAGEM
+Diferente dos assaltos, o traficante não perde 30% na lavagem. O lucro é 100% dele, compensando o trabalho de farmar e vender um por um.
+:::
