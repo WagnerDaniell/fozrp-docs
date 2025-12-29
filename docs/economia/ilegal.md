@@ -6,78 +6,82 @@ description: Desmanche, Produção de Armas e Câmbio.
 
 # Economia Ilegal
 
-## 💱 Câmbio Bancário
-Conversão direta e sem taxas para facilitar a vida do jogador.
+O sistema ilegal utiliza o **Guarani (PY)** como moeda principal para negociações de peças e armamentos.
 
-:::tip COTAÇÃO
+---
+
+## 💱 Câmbio Bancário (Legal)
+O Guarani é uma moeda oficial. Qualquer cidadão pode ir ao banco e converter seus Reais.
+
+:::tip COTAÇÃO OFICIAL
 **1 Real (BRL) = 4 Guaranis (PY)**
-Troca realizada em qualquer agência bancária.
+*Local: Disponível em qualquer agência bancária de Los Santos.*
 :::
 
 ---
 
-## 🧺 Lavagem de Dinheiro
-Apenas o dinheiro obtido em **Assaltos** (Caixas, Lojas e Bancos) vem marcado como **Dinheiro Sujo**.
-Para utilizá-lo, você precisa lavá-lo.
+## 🚗 Desmanche de Veículos (Ilegal)
+A forma mais lucrativa de conseguir Guarani sem gastar seu dinheiro do banco.
+Você rouba o veículo, entrega no desmanche e recebe em espécie (PY).
 
-* **Taxa de Lavagem:** **30%** é retido pelo lavador/facção.
-* **Retorno:** Você recebe **70%** do valor em dinheiro limpo.
+* **Pagamento:** **15% a 20%** do valor de tabela do carro (pago em PY).
 
----
-
-## 🚗 Desmanche de Veículos
-Pagamento em **Guarani (PY)**.
-* **Valor:** **15% a 20%** do valor de tabela do carro.
-
-**Exemplo Prático (Audi R8 - R$ 700k):**
-* O desmanche paga **420.000 PY**.
-* Isso equivale a **R$ 105.000** limpos.
-* **OU** permite fabricar **21 AK-47s** na bancada.
+**Exemplo Prático (Audi R8 - Tabela R$ 700k):**
+* O desmanche paga aprox. **420.000 PY**.
+* **Na conversão:** Equivale a **R$ 105.000** limpos.
+* **No Crafting:** Com esses 420k PY, você compra materiais para fazer **21 AK-47s**.
 
 ---
 
-## 🔫 Crafting de Armas (Configuração do Script)
-Custos em PY definidos para serem baixos, permitindo que a facção use as armas em guerra sem medo de perder.
+## 🏭 Sistema de Crafting (Produção)
 
-| Item | Custo da Taxa (PY) | Custo em Reais (Aprox.) |
-|------|--------------------|-------------------------|
-| **Glock** | 2.000 PY | R$ 500 |
-| **Tec-9** | 3.000 PY | R$ 750 |
-| **MP5** | 6.000 PY | R$ 1.500 |
-| **Shotgun** | 6.000 PY | R$ 1.500 |
-| **AK-47** | 20.000 PY | R$ 5.000 |
-| **Colete** | 200 PY | R$ 50 |
-| **Munição 9mm** | 100 PY | R$ 25 |
-| **Munição .12** | 200 PY | R$ 50 |
-| **Munição 5.56** | 250 PY | R$ 75 |
-| **Baseado** | 200 PY | R$ 50 |
-| **Cocaína** | 300 PY | R$ 75 |
+A bancada de produção **NÃO cobra dinheiro** para criar a arma.
+O custo está na **compra dos materiais** durante as rotas.
 
-:::success DINÂMICA
-Roubar **1 carro popular** já paga a fabricação de **3 AK-47s**. Isso mantém o servidor sempre armado e pronto para ação.
-:::
+### 📦 Materiais Necessários (Obtidos nas Rotas)
+Você paga em **Guarani (PY)** nos pontos de coleta para receber esses itens:
+
+* **Armas Leves:** `corpo-pistola`, `mola`, `gatilho`, `metal`.
+* **Armas Pesadas:** `corpo-fuzil`, `mola`, `gatilho`, `metal`.
+* **Munições:** `polvora`, `metal`.
+* **Drogas:** `folha-maconha`, `pasta-base`, `seda`, `ziplock`.
 
 ---
 
-## 🏪 Assaltos (Dinheiro Sujo)
-Os valores abaixo sofrem a penalidade da lavagem.
+### 🔫 Receitas de Armamento
 
-| Atividade | Valor do Roubo (Sujo) | Lucro Real (Após Lavar 30%) | Risco |
-|-----------|-----------------------|-----------------------------|-------|
-| **Caixa Eletrônico** | R$ 5.000 - R$ 7.000 | **R$ 3.500 - R$ 4.900** | 🟡 Médio |
-| **Loja Depto.** | R$ 15.000 - R$ 20.000 | **R$ 10.500 - R$ 14.000** | 🟡 Médio |
-| **Banco Fleeca** | R$ 300.000 - R$ 400.000 | **R$ 210.000 - R$ 280.000** | 🔴 Muito Alto |
+*Quantidade de peças ajustada para refletir o custo dos materiais em PY.*
+
+#### Pistolas e Submetralhadoras
+| Arma | Valor Estimado (Custo em PY) | Receita (Materiais Exigidos) |
+|------|------------------------------|------------------------------|
+| **Glock** | ~2.000 PY | 2x Corpo Pistola + 1x Mola + 1x Gatilho |
+| **Tec-9** | ~3.000 PY | 3x Corpo Pistola + 2x Mola + 1x Gatilho |
+| **MP5** | ~6.000 PY | 4x Corpo Pistola + 4x Mola + 2x Gatilho + 2x Metal |
+
+#### Armas Pesadas e Utilitários
+| Arma | Valor Estimado (Custo em PY) | Receita (Materiais Exigidos) |
+|------|------------------------------|------------------------------|
+| **Shotgun** | ~6.000 PY | 2x Corpo Fuzil + 2x Mola + 2x Gatilho + 4x Metal |
+| **AK-47** | ~20.000 PY | 10x Corpo Fuzil + 10x Mola + 10x Gatilho + 10x Metal |
+| **Colete** | ~200 PY | 4x Metal + 2x Tecido(Kevlar) |
+
+#### Munições (Caixa)
+| Tipo | Custo Aprox. | Receita |
+|------|--------------|---------|
+| **9mm** | 100 PY | 1x Pólvora + 1x Metal |
+| **.12** | 200 PY | 2x Pólvora + 1x Metal |
+| **5.56** | 250 PY | 2x Pólvora + 2x Metal |
 
 ---
 
-## 💊 Tráfico de Drogas (Dinheiro Limpo)
-Venda direta para usuários (NPCs). O dinheiro entra **limpo** na hora, sem taxas.
+### 💊 Receitas de Drogas
 
-| Item | Valor de Venda | Risco |
-|------|----------------|-------|
-| **Maconha** | R$ 250 - R$ 350 | 🔴 Alto (Polícia na cola) |
-| **Cocaína** | R$ 350 - R$ 500 | 🔴 Alto (Polícia na cola) |
+| Droga Final | Custo Aprox. | Receita (Insumos da Rota) |
+|-------------|--------------|---------------------------|
+| **Baseado** | 200 PY | 1x Folha de Maconha + 1x Seda |
+| **Cocaína** | 300 PY | 1x Pasta Base + 1x Ziplock |
 
-:::info VANTAGEM
-Diferente dos assaltos, o traficante não perde 30% na lavagem. O lucro é 100% dele, compensando o trabalho de farmar e vender um por um.
+:::success ESTRATÉGIA DE JOGO
+Você pode comprar PY no banco para craftar rápido (gastando dinheiro legal) **OU** roubar carros para conseguir PY "de graça" e ter 100% de lucro na venda das armas.
 :::
