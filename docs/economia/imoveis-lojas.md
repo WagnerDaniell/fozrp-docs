@@ -8,11 +8,10 @@ description: Casas, Aluguéis, Mercado e Importação PY.
 
 ## 🏘️ Preços e IPTU
 
-| Tipo | Preço Compra | IPTU Quinzenal | Baú |
-|------|--------------|----------------|-----|
-| **Kitnet** | R$ 20k - R$ 35k | R$ 2.000 - R$ 3.500 | 20kg |
-| **Casa Simples** | R$ 50k - R$ 85k | R$ 5.000 - R$ 8.500 | 30kg |
-| **Casa Média** | R$ 220k - R$ 280k | R$ 22.000 - R$ 28.000 | 50kg |
+| Tipo | Preço Compra | IPTU Quinzenal |
+|------|--------------|----------------|
+| **Casa Simples** | R$ 65k - R$ 150k | R$ 6.500 - R$ 15.000 |
+| **Casa Média/Mini Mansões** | R$ 220k - R$ 800k | R$ 22.000 - R$ 80.000 |
 | **Mansão** | R$ 1.2M | R$ 120.000 | 100kg |
 
 * **Regra IPTU:** 10% do valor do imóvel a cada 15 dias.
